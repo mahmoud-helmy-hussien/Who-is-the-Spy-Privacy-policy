@@ -1,5 +1,7 @@
 Refactored Privacy Policy for Who is the Spy?
+
 Last updated: [ april 16, 2025]
+
 This Privacy Policy describes Our policies and procedures regarding information when You use the Application and tells You about Your privacy rights and how the law protects You.
 "Who is the Spy?" is designed as an offline, local multiplayer game. The core functionality operates entirely on your device without requiring an internet connection. We are committed to protecting your privacy. This Privacy Policy explains our practices.
 Interpretation and Definitions
